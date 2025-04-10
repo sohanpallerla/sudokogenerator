@@ -27,8 +27,7 @@ You can view the svg image generated in any Browser.
    
 ### FlowChart
 
-![image](https://github.com/sohan/Sudoku-Generator/blob/master/images/flowchart1.png)  
-![image](https://github.com/sohan/Sudoku-Generator/blob/master/images/flowchart2.png)  
+![image](https://github.com/user-attachments/assets/b5330e10-0aef-4db4-b6aa-d40c0fe13bdf)
 
 ### Working of Step 1 and Step 6:  
 
