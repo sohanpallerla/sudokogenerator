@@ -28,6 +28,8 @@ You can view the svg image generated in any Browser.
 ### FlowChart
 
 ![image](https://github.com/user-attachments/assets/b5330e10-0aef-4db4-b6aa-d40c0fe13bdf)
+![image](https://github.com/user-attachments/assets/284d878b-0997-456e-af07-ca15164c3e4f)
+
 
 ### Working of Step 1 and Step 6:  
 
